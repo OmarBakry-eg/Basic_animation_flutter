@@ -1,4 +1,4 @@
-# extensionmethods
+# Basic animation with extensions method
 
 A new Flutter application.
 
